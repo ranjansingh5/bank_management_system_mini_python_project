@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (Python)
+# 🏦 Bank Management System 
 
 This is a **console-based Bank Management System** developed using **pure Python**.  
 It allows users to create bank accounts and perform basic banking operations such as deposit, withdrawal, and balance inquiry.
